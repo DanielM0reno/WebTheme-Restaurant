@@ -1,2 +1,3 @@
 # WebTheme-Restaurant
-Tema base de muestra para tema principal en wordpress
+- Tema base de muestra 
+- El tema principal esta adaptado a Wordpress
